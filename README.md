@@ -11,7 +11,7 @@ npm install -g random_messages_practice_platzi
 # Usage
 
 ```bash
-random_messages_practice_platzi
+random-msg
 ```
 
 # Contributing

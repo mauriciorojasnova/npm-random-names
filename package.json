@@ -14,7 +14,15 @@
   "author": "Mauricio Rojas <andrsnov@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "/bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciorojasnova/npm-random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mauriciorojasnova/npm-random-names/issues"
+  },
+  "homepage": "https://github.com/mauriciorojasnova/npm-random-names#readme"
 }
